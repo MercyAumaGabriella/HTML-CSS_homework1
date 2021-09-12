@@ -1,0 +1,94 @@
+body{
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    text-align: center;
+}
+
+#mainbox{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-color: black;
+    border-style: solid;
+    padding: 5px 40px 20px 40px;
+}
+
+#first_box{
+    padding: 5px 25px 5px 25px;
+    text-align: center;
+}
+
+#second_column{
+    padding:5px;
+    background-color: pink;
+    text-align: center;
+}
+
+#last_column{
+    padding: 5px;
+    background-color: aqua;
+    text-align: center;
+}
+
+#main_list{
+    padding: 5px 20px 20px 20px;
+    border-color: grey;
+    border-style: solid;
+    margin: 10px 0px 15px 0px;
+}
+
+#list_colum{
+    font-size: 20px;
+    font-weight: normal;
+    color: grey;
+    border-color: grey;
+    border-style: solid;
+    margin-top: 15px ;
+}
+
+.box{
+    border-color: black;
+}
+
+#selected{
+    color: grey;
+    margin-top: 30px;
+    border-color: grey;
+    border-style: solid;
+}
+
+#some{
+    color: grey;
+    margin-top:30px;
+    border-color: grey;
+    border-style: solid;
+}
+
+#dotted{
+    border-color: grey;
+    border-style: solid;
+    border-radius: 10px;
+    margin-top: 150px;
+}
+
+#loaded_container{
+    border-color: green;
+    border-style: solid;
+    padding: 0px 40px 0px 20px;
+    margin: 10px 0px 15px 0px;
+}
+
+#js{
+    border-color: grey;
+    border-style: solid;
+    margin-top: 110px;
+}
+
+#save{
+    border-color:blue;
+    border-style: solid;
+    color: grey;
+}
